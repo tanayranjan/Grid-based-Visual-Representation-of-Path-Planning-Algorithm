@@ -6,5 +6,5 @@ I created a code in which we can set start point, end point and obstacles in gri
 3) Hold `e` and left-click a cell in the grid using mouse. It will create a ending point
 4) Hold `o` and left-click a cell in the grid using mouse. It will create obstacles
 5) Now press enter, it will solve grid automatically using Dijkstra's Algorithm
-![ice_video_20210925-232819.gif](../_resources/ice_video_20210925-232819.gif)
+![ice_video_20210925-232819.gif](_resources/ice_video_20210925-232819.gif)
 I will add A* algorithm later
